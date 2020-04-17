@@ -1,0 +1,2 @@
+# jakup
+albstory.com
